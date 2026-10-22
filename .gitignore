@@ -1,0 +1,16 @@
+**/lab/vendor/*/
+!**/lab/vendor/README.md
+!**/lab/vendor/.gitkeep
+**/evidence/
+**/out/
+*.log
+!**/checker/fixtures/*.log
+*.mp4
+*.cast
+*.gif
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
