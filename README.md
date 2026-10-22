@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/aumlayer">
+    <img src="https://raw.githubusercontent.com/aumlayer/.github/main/assets/aumlayer-logo.jpg" width="96" alt="AUMLayer" />
+  </a>
+</div>
+
 # Security Labs
 
 Public research artifacts from [AUMLayer](https://github.com/aumlayer) for **authorized security testing and incident response**: Docker labs, log scanners, and documentation — organized by product and CVE.
